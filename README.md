@@ -19,7 +19,7 @@ bun run cli
 ```bash
 bun run cli --video=./video.mp4
 # or
-bun tun cli --video=https://example.com/video.mp4
+bun run cli --video=https://example.com/video.mp4
 ```
 
 This project was created using `bun init` in bun v1.1.42. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
